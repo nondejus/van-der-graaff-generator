@@ -1,1 +1,4 @@
-# van-der-graaf-generator_
+# van-der-graaf-generator
+
+# robert j van der graaff
+https://en.wikipedia.org/wiki/Robert_J._Van_de_Graaff
